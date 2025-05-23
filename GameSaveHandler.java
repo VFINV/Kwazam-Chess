@@ -1,6 +1,4 @@
 import java.awt.event.ActionEvent;
-// Chow Shu Ling
-
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
 import java.io.*;
