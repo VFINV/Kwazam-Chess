@@ -1,5 +1,3 @@
-// Nurul Izzati Afina Binti Sukri
-
 import javax.swing.ImageIcon;
 import java.awt.*;
 
