@@ -1,6 +1,4 @@
 import java.lang.Math;
-// Nurul Izzati Afina Binti Sukri 
-
 import javax.swing.ImageIcon;
 
 public class TOR extends Piece {
