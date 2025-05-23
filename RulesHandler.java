@@ -1,5 +1,3 @@
-// Foo Yau Yun
-
 import java.awt.event.*;
 import javax.swing.JOptionPane;
 
