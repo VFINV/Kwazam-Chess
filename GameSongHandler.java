@@ -1,5 +1,3 @@
-// Foo Yau Yun
-
 import javax.sound.sampled.*;
 import java.io.File;
 
