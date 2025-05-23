@@ -1,5 +1,3 @@
-// Leticia Lai Suh Hooi 
-
 public class GameBoard {
     
     private int RedCount = 0; // Tracks the step count for the red player
