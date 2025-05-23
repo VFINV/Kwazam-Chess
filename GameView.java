@@ -1,5 +1,3 @@
-// Leticia Lai Suh Hooi 
-
 import java.awt.event.ActionListener;
 import javax.swing.*;
 import java.awt.*;
