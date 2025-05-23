@@ -1,5 +1,3 @@
-// Chow Shu Ling
-
 import java.awt.*;
 import java.awt.event.*;
 
