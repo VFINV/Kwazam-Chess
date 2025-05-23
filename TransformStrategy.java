@@ -1,4 +1,3 @@
-// Leticia Lai Suh Hooi 
 
 // Defines the TransformStrategy interface
 public interface TransformStrategy{
