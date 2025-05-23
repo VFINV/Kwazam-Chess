@@ -1,5 +1,3 @@
-// Leticia Lai Suh Hooi 
-
 public class TORtoXOR implements TransformStrategy {
     // Implements the abstract method from the TransformStrategy interface
     @Override
