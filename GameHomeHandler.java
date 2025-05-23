@@ -1,5 +1,3 @@
-// Foo Yau Yun
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
