@@ -1,5 +1,3 @@
-// Foo Yau Yun
-
 import javax.sound.sampled.*;
 import javax.swing.*;
 import java.awt.*;
