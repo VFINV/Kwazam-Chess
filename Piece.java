@@ -12,14 +12,14 @@ public abstract class Piece {
     
     // Load an image from the specified path and return it as a scaled ImageIcon
     protected static ImageIcon loadImage(String path) { 
-        Image image = new ImageIcon(Piece.class.getResource(path)).getImage();
+        Image image = new ImageIcon(Piece.class.getResource(path)).getImage(); //
         Image scaledImage = image.getScaledInstance(230, 230, java.awt.Image.SCALE_SMOOTH); //load image
         return new ImageIcon(scaledImage); // Return the scaled ImageIcon
     }
     
     // Constructor for the Piece class, initializes the team attribute
     public Piece(String team) {
-        this.team = team;
+        this.team = team; //
     }
 
     // Abstract method that should be implemented by each subclass to define piece-specific movement behavior
@@ -32,7 +32,7 @@ public abstract class Piece {
         if (board.getPiece(i).getClass() == SAU.class) {
             board.setWin(true); // Game is won if the SAU is captured
         }
-        board.getPiece(i).setPosition(-1, -1);
+        board.getPiece(i).setPosition(-1, -1); //
     }
     
     // Iterates through all pieces on the board to check if any piece is at the specified position
